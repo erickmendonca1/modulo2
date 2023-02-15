@@ -12,7 +12,7 @@ function show() {
     const contact1 = document.getElementsByName("contact1")
     console.log(contact1)
 
-    const contacts = document.querySelectorAll("#contact-list > li > label")
+    const contacts = document.querySelectorAll("#c  ontact-list > li > label")
     console.log (contacts)
 
     const firstContact = document.querySelector("#contact-list > li > label")
